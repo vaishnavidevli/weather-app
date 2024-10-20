@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-# weather-app
-=======
-<<<<<<< HEAD
+
 # weather-app
 =======
 ## Project Overview
-Vedio Recording  Link-https://youtu.be/t_FZq1K-hJ0
+youtube link - : https://youtu.be/ZAySw2ONELg?si=KBI5iYC5PTNZFEHQ 
 
 This project aims to develop a real-time data processing system for monitoring weather conditions using data retrieved from the OpenWeatherMap API. The system provides summarized insights through rollups and aggregates, including daily weather summaries and alerting for specified weather conditions.
 
