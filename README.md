@@ -28,8 +28,7 @@ The weather data is sourced from the [OpenWeatherMap API](https://openweathermap
 - Required packages listed in `requirements.txt`
 
 ### Steps
-1. Clone this repository:
-   git clone https://github.com/PRANJALIMALETHA/Real-Time-Data-Processing-System-.git
+1. Clone this repository
 
 Install dependencies:
 
